@@ -1,0 +1,1 @@
+Ce dossier doit contenir le dossier `Training Data Set/` extrait de l'archive `EN-REN.zip` téléchargée sur le site "API et Jeux de Données" de la BnF : https://api.bnf.fr/fr/texte-de-presse-annote-en-entites-nommees
