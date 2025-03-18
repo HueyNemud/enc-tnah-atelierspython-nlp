@@ -1,4 +1,4 @@
-# Partie 1 : Entraîner un modèle de reconnaissance d'entités nommées avec SpaCy
+# Partie 2 : Résolution de toponymes à l'aide d'un référentiel du Web de données
 
 Bonjour 👋
 
